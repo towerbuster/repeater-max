@@ -1,5 +1,5 @@
 /*
-    Intention Repeater MAX v3.3 created by Thomas Sweet.
+    Intention Repeater MAX v3.31 created by Thomas Sweet.
     Performance benchmark, enhancement and flags by Karteek Sheri.
     Small enhancements (for compilation ok in VS2019) by Mcode aka Ninja aka Tow3rbust3r (01/11/2021).
     Created 11/14/2020 for C++.
@@ -201,7 +201,7 @@ std::string FormatTimeRun(int seconds_elapsed) {
 }
 
 void print_help() {
-    cout << "Intention Repeater MAX v3.3 (c)2020 Thomas Sweet aka Anthro Teacher." << endl;
+    cout << "Intention Repeater MAX v3.31 (c)2020 Thomas Sweet aka Anthro Teacher And Mcode/Ninja/Tow3rbust3r." << endl;
     cout << "Performance benchmark, exponents and flags by Karteek Sheri." << endl;
     cout << "Intention multiplying by Thomas Sweet." << endl << endl;
 
